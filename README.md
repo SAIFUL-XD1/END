@@ -7,6 +7,9 @@
 3.CYTHONE
 
 # TOOL INSTALLATION COMMAND
+cd 
+
+rm -rf END
 
 git clone https://github.com/SAIFUL-XD1/END.git
 
