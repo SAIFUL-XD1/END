@@ -16,6 +16,4 @@ git clone https://github.com/SAIFUL-XD1/END.git
 
 cd END
 
-chmod +x *
-
-python END.py
+python COMDECOM.py
