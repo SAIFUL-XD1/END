@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=TOOL+FEATURES)](https://git.io/typing-svg)
-
+<h1>ENCODE</h1>
 1.ENCODE
 
 2.DECODE
