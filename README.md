@@ -18,4 +18,4 @@ cd END
 
 chmod +x *
 
-./END
+python END.py
